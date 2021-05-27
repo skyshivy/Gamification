@@ -1,0 +1,4 @@
+framework module Gamification {
+  header "Gamification-Swift.h"
+  requires objc
+}
