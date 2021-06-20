@@ -1,0 +1,11 @@
+framework module Gamification {
+  umbrella header "Gamification.h"
+
+  export *
+  module * { export * }
+}
+
+module Gamification.Swift {
+    header "Gamification-Swift.h"
+    requires objc
+}
