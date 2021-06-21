@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'Gamification'
-  spec.version      = '1.1.1'
+  spec.version      = '0.1.2'
   spec.summary      = 'Gamification framework'
   spec.description  = <<-DESC
 	import Gamification framework and implement methods
