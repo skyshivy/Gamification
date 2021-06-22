@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		339D86D526816CF00072D634 /* Gamification.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 339D86D426816CF00072D634 /* Gamification.podspec */; };
+		339D86D926816E410072D634 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 339D86D726816E410072D634 /* LICENSE */; };
+		339D86DA26816E410072D634 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 339D86D826816E410072D634 /* README.md */; };
 		33F569A6265F51AF00150D09 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F569A5265F51AF00150D09 /* AppDelegate.swift */; };
 		33F569A8265F51AF00150D09 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F569A7265F51AF00150D09 /* SceneDelegate.swift */; };
 		33F569AA265F51AF00150D09 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F569A9265F51AF00150D09 /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		339D86D426816CF00072D634 /* Gamification.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Gamification.podspec; sourceTree = "<group>"; };
+		339D86D726816E410072D634 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		339D86D826816E410072D634 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		33F569A2265F51AF00150D09 /* Gamification.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gamification.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33F569A5265F51AF00150D09 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33F569A7265F51AF00150D09 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +46,9 @@
 		33F56999265F51AE00150D09 = {
 			isa = PBXGroup;
 			children = (
+				339D86D426816CF00072D634 /* Gamification.podspec */,
+				339D86D726816E410072D634 /* LICENSE */,
+				339D86D826816E410072D634 /* README.md */,
 				33F569A4265F51AF00150D09 /* Gamification */,
 				33F569A3265F51AF00150D09 /* Products */,
 			);
@@ -124,9 +133,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				339D86DA26816E410072D634 /* README.md in Resources */,
 				33F569B2265F51BD00150D09 /* LaunchScreen.storyboard in Resources */,
 				33F569AF265F51BD00150D09 /* Assets.xcassets in Resources */,
 				33F569AD265F51AF00150D09 /* Main.storyboard in Resources */,
+				339D86D526816CF00072D634 /* Gamification.podspec in Resources */,
+				339D86D926816E410072D634 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
