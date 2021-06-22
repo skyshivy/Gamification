@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.platform      = :ios
   spec.source       = { :git => 'https://github.com/skyshivy/Gamification.git', :tag => spec.version }
 
-#  spec.vendored_frameworks = 'Gamification.xcframework'
+  spec.vendored_frameworks = 'Gamification.xcframework'
 spec.exclude_files = "Classes/Exclude"
 
 end
