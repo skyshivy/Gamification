@@ -14,5 +14,5 @@ Pod::Spec.new do |spec|
 
   spec.vendored_frameworks = 'Gamification.xcframework'
 spec.exclude_files = "Classes/Exclude"
-
+s.exclude_files = "Gamification/Gamification/*.plist"
 end
